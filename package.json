@@ -1,0 +1,19 @@
+{
+  "name": "blackjack",
+  "version": "1.0.0",
+  "description": "blackjack app",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Capocaccia/Blackjack.git"
+  },
+  "author": "Carter Capocaccia carter.capocaccia@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Capocaccia/Blackjack/issues"
+  },
+  "homepage": "https://github.com/Capocaccia/Blackjack#readme"
+}
